@@ -21,7 +21,7 @@ It is best use of the monkey tool.
 During this...
 Usage is 3 step, very simple.
 
-  1. Connecting devices.
+	1. Connecting devices.
 
 	2. Starting tests.
 
@@ -31,13 +31,13 @@ Note: See also INSTALL file( install & manual documents ).
 
 This following is motivation for us.
 
-	* [Node.js](http://nodejs.org/)
+	[Node.js](http://nodejs.org/)
 		Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, 
 		scalable network applications. Node.js uses an event-driven, non-blocking I/O model 
 		that makes it lightweight and efficient, perfect for data-intensive real-time 
 		applications that run across distributed devices.
 
-	* [Android Monkey tool](http://developer.android.com/guide/developing/tools/monkey.html)
+	[Android Monkey tool](http://developer.android.com/guide/developing/tools/monkey.html)
 		The Monkey is a program that runs on your emulator or device and generates pseudo-random 
 		streams of user events such as clicks, touches, or gestures, as well as a number of 
 		system-level events. You can use the Monkey to stress-test applications that you are 
