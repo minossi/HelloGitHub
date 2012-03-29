@@ -51,12 +51,9 @@ This following is motivation for us.
 ### Source Roadmap
 
     main.node.js					:main
-    
     index.html						:main view
     
-    
     /resource/						:view's images , libraries and stylesheets
-    
     
     /src/admin_manager.node.js		:initialization
     
@@ -73,7 +70,6 @@ This following is motivation for us.
     /src/stuff/						:objects
     
     /src/utils/						:utilities
-    
     
     /views/							:each view's source files(html, javascript for client).
 
