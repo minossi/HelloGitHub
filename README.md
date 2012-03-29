@@ -86,9 +86,9 @@ ex)
 
 (Because distinguish between server and client.)
 
-	1. Case by server side code( include nodeJS code ), the extension is 'xxx.node.js'.
+	Case by server side code( include nodeJS code ), the extension is 'xxx.node.js'.
 	
-	2. Case by client side code( view code ), the extension is 'xxx.js'.
+	Case by client side code( view code ), the extension is 'xxx.js'.
 	
 - Indent is Tab to set same 4 space.
 
