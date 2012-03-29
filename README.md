@@ -21,11 +21,11 @@ It is best use of the monkey tool.
 During this...
 Usage is 3 step, very simple.
 
-1. Connecting devices.
-
-2. Starting tests.
-
-3. Viewing logs.(android logcat, monkey, system information - cpu / memory / network)
+	1. Connecting devices.
+	
+	2. Starting tests.
+	
+	3. Viewing logs.(android logcat, monkey, system information - cpu / memory / network)
 
 Note: See also INSTALL file( install & manual documents ). 
 
