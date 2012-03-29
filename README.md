@@ -71,19 +71,19 @@ developing, in a random yet repeatable manner.
 
 ### Coding Convention
 
-1. Base rule is [google style guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) for javascript
+- Base rule is [google style guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) for javascript
   
 
-2. File or directory name must be lowercase alphabet or '-':
+- File or directory name must be lowercase alphabet or '-':
 	ex)  i_love_you.txt( OK ), its_cool_directory( OK )
 	     I_love_you.txt( NO ), Its_Cool_Directory( NO )
 	
-3. Source file extension rule is as flows:
+- Source file extension rule is as flows:
 	(Because distinguish between server and client.)
 	- Case by server side code( include nodeJS code ), the extension is 'xxx.node.js'.
 	- Case by client side code( view code ), the extension is 'xxx.js'.
 	
-4. Indent is Tab to set same 4 space.
+- Indent is Tab to set same 4 space.
 
 
 
