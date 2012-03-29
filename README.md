@@ -76,19 +76,17 @@ developing, in a random yet repeatable manner.
 
 - File or directory name must be lowercase alphabet or '-':
 
-1. Good case;
 	i_love_you.txt( OK ), its_cool_directory( OK )
 
-2. Bad case;
 	I_love_you.txt( NO ), Its_Cool_Directory( NO )
 	
 - Source file extension rule is as flows:
 
 (Because distinguish between server and client.)
 
-1. Case by server side code( include nodeJS code ), the extension is 'xxx.node.js'.
-
-2. Case by client side code( view code ), the extension is 'xxx.js'.
+	1. Case by server side code( include nodeJS code ), the extension is 'xxx.node.js'.
+	
+	2. Case by client side code( view code ), the extension is 'xxx.js'.
 	
 - Indent is Tab to set same 4 space.
 
