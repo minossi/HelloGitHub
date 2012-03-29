@@ -75,10 +75,12 @@ developing, in a random yet repeatable manner.
   
 
 - File or directory name must be lowercase alphabet or '-':
-	
-	ex)  i_love_you.txt( OK ), its_cool_directory( OK )
 
-	     I_love_you.txt( NO ), Its_Cool_Directory( NO )
+Good case;
+	i_love_you.txt( OK ), its_cool_directory( OK )
+
+Bad case;
+	I_love_you.txt( NO ), Its_Cool_Directory( NO )
 	
 - Source file extension rule is as flows:
 
